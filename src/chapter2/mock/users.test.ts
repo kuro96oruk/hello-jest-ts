@@ -1,3 +1,6 @@
+/**
+ * @jest-environment node
+ */
 import axios from "axios";
 import Users from "./users";
 

@@ -1,3 +1,6 @@
+/**
+ * @jest-environment node
+ */
 // npx jest src/chapter2/mock/mock.test.ts
 
 describe("jest.fn()", () => {

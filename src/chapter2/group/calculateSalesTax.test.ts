@@ -1,3 +1,6 @@
+/**
+ * @jest-environment node
+ */
 // npx jest src/chapter2/group/calculateSalesTax.test.ts
 
 const calculateSalesTax = (price: number) =>

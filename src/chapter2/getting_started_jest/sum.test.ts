@@ -1,3 +1,7 @@
+/**
+ * @jest-environment node
+ */
+
 import {sum} from "./sum";
 
 // テストケースを定義

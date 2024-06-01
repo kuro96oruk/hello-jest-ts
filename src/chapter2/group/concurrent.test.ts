@@ -1,3 +1,6 @@
+/**
+ * @jest-environment node
+ */
 //npx jest src/chapter2/group/concurrent.test.ts --runInBand
 //npx jest src/chapter2/group/concurrent.test.ts --runInBand --maxConcurrency=10
 

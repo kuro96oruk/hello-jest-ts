@@ -1,3 +1,6 @@
+/**
+ * @jest-environment node
+ */
 import {chohan} from "./chohan";
 
 jest.mock("./seed", () => {

@@ -1,3 +1,6 @@
+/**
+ * @jest-environment node
+ */
 describe("グループ名", () => {
   test("テストケース1", () => {
     expect(true).toBe(true);

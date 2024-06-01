@@ -1,4 +1,7 @@
 // npx jest src/chapter2/assertion/assertion.test.ts
+/**
+ * @jest-environment node
+ */
 
 test("testを利用してテストケースを作成する", () => {
     const result = true;
